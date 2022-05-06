@@ -1,0 +1,24 @@
+
+.mediaLayout {
+  
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  justify-content: center;
+  
+}
+
+.main{
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+.logo{
+  padding-bottom: 150%;
+  padding-left:2px
+}
+
+.skills{
+  padding-top: 50%;
+}
